@@ -1,0 +1,283 @@
+Coverage Report by instance with details
+
+=================================================================================
+=== Instance: /SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS
+=== Design Unit: work.UART_Assertions
+=================================================================================
+
+Assertion Coverage:
+    Assertions                      21        21         0   100.00%
+--------------------------------------------------------------------
+Name                 File(Line)                   Failure      Pass 
+                                                  Count        Count
+--------------------------------------------------------------------
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/proc_reset_RX/immed__6
+                     UART_Assertions.sv(6)              0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop1_U
+                     UART_Assertions.sv(13)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop2_U
+                     UART_Assertions.sv(19)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop3_U
+                     UART_Assertions.sv(25)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop4_U
+                     UART_Assertions.sv(32)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop5_U
+                     UART_Assertions.sv(38)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop6_U
+                     UART_Assertions.sv(44)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/proc_reset_TX/immed__52
+                     UART_Assertions.sv(52)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop7_U
+                     UART_Assertions.sv(59)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop8_U
+                     UART_Assertions.sv(65)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop9_U
+                     UART_Assertions.sv(71)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop10_U
+                     UART_Assertions.sv(77)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop11_U
+                     UART_Assertions.sv(83)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop12_U
+                     UART_Assertions.sv(89)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop13_U
+                     UART_Assertions.sv(95)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop14_U
+                     UART_Assertions.sv(101)            0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop15_U
+                     UART_Assertions.sv(107)            0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop16_U
+                     UART_Assertions.sv(113)            0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop17_U
+                     UART_Assertions.sv(119)            0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop18_U
+                     UART_Assertions.sv(125)            0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop19_U
+                     UART_Assertions.sv(131)            0          1
+
+=================================================================================
+=== Instance: /SYS_UVM_TOP/DUT_M/U4/CTRL_Asser
+=== Design Unit: work.CTRL_Assertions
+=================================================================================
+
+Assertion Coverage:
+    Assertions                      17        17         0   100.00%
+--------------------------------------------------------------------
+Name                 File(Line)                   Failure      Pass 
+                                                  Count        Count
+--------------------------------------------------------------------
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/proc_reset_RX/immed__25
+                     CTRL_Assertions.sv(25)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop1_C
+                     CTRL_Assertions.sv(37)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop2_C
+                     CTRL_Assertions.sv(45)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop3_C
+                     CTRL_Assertions.sv(53)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop4_C
+                     CTRL_Assertions.sv(61)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop5_C
+                     CTRL_Assertions.sv(69)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop6_C
+                     CTRL_Assertions.sv(77)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop7_C
+                     CTRL_Assertions.sv(85)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop8_C
+                     CTRL_Assertions.sv(93)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop9_C
+                     CTRL_Assertions.sv(101)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop10_C
+                     CTRL_Assertions.sv(109)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop11_C
+                     CTRL_Assertions.sv(117)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop12_C
+                     CTRL_Assertions.sv(125)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop13_C
+                     CTRL_Assertions.sv(133)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop14_C
+                     CTRL_Assertions.sv(141)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop15_C
+                     CTRL_Assertions.sv(149)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop16_C
+                     CTRL_Assertions.sv(157)            0          1
+
+=================================================================================
+=== Instance: /SYS_UVM_TOP/DUT_M/U5/RF_Asser
+=== Design Unit: work.REG_FILE_Asser
+=================================================================================
+
+Assertion Coverage:
+    Assertions                       4         4         0   100.00%
+--------------------------------------------------------------------
+Name                 File(Line)                   Failure      Pass 
+                                                  Count        Count
+--------------------------------------------------------------------
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/proc_reset/immed__4
+                     RF_Asser.sv(4)                     0          1
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/assert_prop1_R
+                     RF_Asser.sv(10)                    0          1
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/assert_prop2_R
+                     RF_Asser.sv(15)                    0          1
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/#ublk#82509986#17/immed__18
+                     RF_Asser.sv(18)                    0          1
+
+=================================================================================
+=== Instance: /SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER
+=== Design Unit: work.FIFO_ASSER
+=================================================================================
+
+Assertion Coverage:
+    Assertions                       6         6         0   100.00%
+--------------------------------------------------------------------
+Name                 File(Line)                   Failure      Pass 
+                                                  Count        Count
+--------------------------------------------------------------------
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/proc_reset1/immed__5
+                     FIFO_Asser.sv(5)                   0          1
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/proc_fifo_read/immed__9
+                     FIFO_Asser.sv(9)                   0          1
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/proc_reset2/immed__14
+                     FIFO_Asser.sv(14)                  0          1
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/assert_prop1_F
+                     FIFO_Asser.sv(20)                  0          1
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/assert_prop2_F
+                     FIFO_Asser.sv(25)                  0          1
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/assert_prop3_F
+                     FIFO_Asser.sv(30)                  0          1
+
+=================================================================================
+=== Instance: /SYS_UVM_TOP/DUT_M/ASSERTIONS
+=== Design Unit: work.SYS_Assertions
+=================================================================================
+
+Assertion Coverage:
+    Assertions                       1         1         0   100.00%
+--------------------------------------------------------------------
+Name                 File(Line)                   Failure      Pass 
+                                                  Count        Count
+--------------------------------------------------------------------
+/SYS_UVM_TOP/DUT_M/ASSERTIONS/#ublk#34179907#2/immed__4
+                     Assertions.sv(4)                   0          1
+
+=================================================================================
+=== Instance: /SYS_SEQUENCE
+=== Design Unit: work.SYS_SEQUENCE
+=================================================================================
+
+Assertion Coverage:
+    Assertions                       1         1         0   100.00%
+--------------------------------------------------------------------
+Name                 File(Line)                   Failure      Pass 
+                                                  Count        Count
+--------------------------------------------------------------------
+/SYS_SEQUENCE/SEQ_1/body/#ublk#266802693#40/immed__43
+                     SYS_SEQUENCE.sv(43)                0          1
+
+
+ASSERTION RESULTS:
+--------------------------------------------------------------------
+Name                 File(Line)                   Failure      Pass 
+                                                  Count        Count
+--------------------------------------------------------------------
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/proc_reset_RX/immed__6
+                     UART_Assertions.sv(6)              0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop1_U
+                     UART_Assertions.sv(13)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop2_U
+                     UART_Assertions.sv(19)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop3_U
+                     UART_Assertions.sv(25)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop4_U
+                     UART_Assertions.sv(32)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop5_U
+                     UART_Assertions.sv(38)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop6_U
+                     UART_Assertions.sv(44)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/proc_reset_TX/immed__52
+                     UART_Assertions.sv(52)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop7_U
+                     UART_Assertions.sv(59)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop8_U
+                     UART_Assertions.sv(65)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop9_U
+                     UART_Assertions.sv(71)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop10_U
+                     UART_Assertions.sv(77)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop11_U
+                     UART_Assertions.sv(83)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop12_U
+                     UART_Assertions.sv(89)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop13_U
+                     UART_Assertions.sv(95)             0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop14_U
+                     UART_Assertions.sv(101)            0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop15_U
+                     UART_Assertions.sv(107)            0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop16_U
+                     UART_Assertions.sv(113)            0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop17_U
+                     UART_Assertions.sv(119)            0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop18_U
+                     UART_Assertions.sv(125)            0          1
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/assert_prop19_U
+                     UART_Assertions.sv(131)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/proc_reset_RX/immed__25
+                     CTRL_Assertions.sv(25)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop1_C
+                     CTRL_Assertions.sv(37)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop2_C
+                     CTRL_Assertions.sv(45)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop3_C
+                     CTRL_Assertions.sv(53)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop4_C
+                     CTRL_Assertions.sv(61)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop5_C
+                     CTRL_Assertions.sv(69)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop6_C
+                     CTRL_Assertions.sv(77)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop7_C
+                     CTRL_Assertions.sv(85)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop8_C
+                     CTRL_Assertions.sv(93)             0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop9_C
+                     CTRL_Assertions.sv(101)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop10_C
+                     CTRL_Assertions.sv(109)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop11_C
+                     CTRL_Assertions.sv(117)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop12_C
+                     CTRL_Assertions.sv(125)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop13_C
+                     CTRL_Assertions.sv(133)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop14_C
+                     CTRL_Assertions.sv(141)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop15_C
+                     CTRL_Assertions.sv(149)            0          1
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/assert_prop16_C
+                     CTRL_Assertions.sv(157)            0          1
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/proc_reset/immed__4
+                     RF_Asser.sv(4)                     0          1
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/assert_prop1_R
+                     RF_Asser.sv(10)                    0          1
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/assert_prop2_R
+                     RF_Asser.sv(15)                    0          1
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/#ublk#82509986#17/immed__18
+                     RF_Asser.sv(18)                    0          1
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/proc_reset1/immed__5
+                     FIFO_Asser.sv(5)                   0          1
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/proc_fifo_read/immed__9
+                     FIFO_Asser.sv(9)                   0          1
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/proc_reset2/immed__14
+                     FIFO_Asser.sv(14)                  0          1
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/assert_prop1_F
+                     FIFO_Asser.sv(20)                  0          1
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/assert_prop2_F
+                     FIFO_Asser.sv(25)                  0          1
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/assert_prop3_F
+                     FIFO_Asser.sv(30)                  0          1
+/SYS_UVM_TOP/DUT_M/ASSERTIONS/#ublk#34179907#2/immed__4
+                     Assertions.sv(4)                   0          1
+/SYS_SEQUENCE/SEQ_1/body/#ublk#266802693#40/immed__43
+                     SYS_SEQUENCE.sv(43)                0          1
+
+Total Coverage By Instance (filtered view): 100.00%
+

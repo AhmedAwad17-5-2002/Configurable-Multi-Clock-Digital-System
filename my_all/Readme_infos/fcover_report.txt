@@ -1,0 +1,500 @@
+Coverage Report by instance with details
+
+=================================================================================
+=== Instance: /SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS
+=== Design Unit: work.UART_Assertions
+=================================================================================
+
+Directive Coverage:
+    Directives                      19        19         0   100.00%
+
+DIRECTIVE COVERAGE:
+--------------------------------------------------------------------------------------------
+Name                                     Design Design   Lang File(Line)      Hits Status    
+                                         Unit   UnitType                                     
+--------------------------------------------------------------------------------------------
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop1_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(135)
+                                                                              33506 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop2_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(136)
+                                                                              33506 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop3_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(137)
+                                                                              28613 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop4_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(138)
+                                                                              10084 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop5_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(139)
+                                                                              10084 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop6_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(140)
+                                                                              4893 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop7_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(141)
+                                                                              13360 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop8_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(142)
+                                                                              13360 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop9_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(143)
+                                                                              13360 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop10_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(144)
+                                                                              13360 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop11_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(145)
+                                                                              13360 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop12_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(146)
+                                                                              13341 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop13_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(147)
+                                                                              13324 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop14_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(148)
+                                                                              13282 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop15_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(149)
+                                                                              13255 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop16_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(150)
+                                                                              8688 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop17_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(151)
+                                                                              1510 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop18_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(152)
+                                                                              3056 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop19_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(153)
+                                                                              10198 Covered   
+
+=================================================================================
+=== Instance: /SYS_UVM_TOP/DUT_M/U4/CTRL_Asser
+=== Design Unit: work.CTRL_Assertions
+=================================================================================
+
+Directive Coverage:
+    Directives                      16        16         0   100.00%
+
+DIRECTIVE COVERAGE:
+--------------------------------------------------------------------------------------------
+Name                                     Design Design   Lang File(Line)      Hits Status    
+                                         Unit   UnitType                                     
+--------------------------------------------------------------------------------------------
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop1_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(161)
+                                                                              2793 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop2_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(162)
+                                                                              2769 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop3_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(163)
+                                                                              2668 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop4_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(164)
+                                                                              2739 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop5_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(165)
+                                                                              2788 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop6_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(166)
+                                                                              2742 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop7_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(167)
+                                                                              2725 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop8_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(168)
+                                                                              2725 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop9_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(169)
+                                                                              2657 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop10_U 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(170)
+                                                                              2651 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop11_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(171)
+                                                                              5357 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop12_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(172)
+                                                                              5357 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop13_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(173)
+                                                                              5357 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop14_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(174)
+                                                                              5357 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop15_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(175)
+                                                                              5357 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop16_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(176)
+                                                                              2788 Covered   
+
+=================================================================================
+=== Instance: /SYS_UVM_TOP/DUT_M/U5/RF_Asser
+=== Design Unit: work.REG_FILE_Asser
+=================================================================================
+
+Directive Coverage:
+    Directives                       2         2         0   100.00%
+
+DIRECTIVE COVERAGE:
+--------------------------------------------------------------------------------------------
+Name                                     Design Design   Lang File(Line)      Hits Status    
+                                         Unit   UnitType                                     
+--------------------------------------------------------------------------------------------
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/cvr_prop1_R 
+                                         REG_FILE_Asser Verilog  SVA  RF_Asser.sv(21) 8050 Covered   
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/cvr_prop2_R 
+                                         REG_FILE_Asser Verilog  SVA  RF_Asser.sv(22) 2725 Covered   
+
+=================================================================================
+=== Instance: /SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER
+=== Design Unit: work.FIFO_ASSER
+=================================================================================
+
+Directive Coverage:
+    Directives                       3         3         0   100.00%
+
+DIRECTIVE COVERAGE:
+--------------------------------------------------------------------------------------------
+Name                                     Design Design   Lang File(Line)      Hits Status    
+                                         Unit   UnitType                                     
+--------------------------------------------------------------------------------------------
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/cvr_prop1_F 
+                                         FIFO_ASSER Verilog  SVA  FIFO_Asser.sv(34)
+                                                                              13439 Covered   
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/cvr_prop2_F 
+                                         FIFO_ASSER Verilog  SVA  FIFO_Asser.sv(35)
+                                                                              13439 Covered   
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/cvr_prop3_F 
+                                         FIFO_ASSER Verilog  SVA  FIFO_Asser.sv(36)
+                                                                              13360 Covered   
+
+=================================================================================
+=== Instance: /SYS_COV_COLLECTOR
+=== Design Unit: work.SYS_COV_COLLECTOR
+=================================================================================
+
+Covergroup Coverage:
+    Covergroups                      1        na        na   100.00%
+        Coverpoints/Crosses          8        na        na        na
+            Covergroup Bins         48        48         0   100.00%
+----------------------------------------------------------------------------------------------------------
+Covergroup                                             Metric       Goal       Bins    Status               
+                                                                                                         
+----------------------------------------------------------------------------------------------------------
+ TYPE /SYS_COV_COLLECTOR/SYS_COV_COLLECTOR_C/COV_GP 
+                                                      100.00%        100          -    Covered              
+    covered/total bins:                                    48         48          -                      
+    missing/total bins:                                     0         48          -                      
+    % Hit:                                            100.00%        100          -                      
+    Coverpoint CP_1                                   100.00%        100          -    Covered              
+        covered/total bins:                                 2          2          -                      
+        missing/total bins:                                 0          2          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin A1[0]                                    89976305          1          -    Covered              
+        bin A1[1]                                   126824127          1          -    Covered              
+    Coverpoint CP_2                                   100.00%        100          -    Covered              
+        covered/total bins:                                 2          2          -                      
+        missing/total bins:                                 0          2          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin B1[0]                                     4359414          1          -    Covered              
+        bin B1[1]                                   212441018          1          -    Covered              
+    Coverpoint CP_3                                   100.00%        100          -    Covered              
+        covered/total bins:                                 5          5          -                      
+        missing/total bins:                                 0          5          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin C1[4]                                    23847709          1          -    Covered              
+        bin C1[8]                                    26909768          1          -    Covered              
+        bin C1[16]                                   37205091          1          -    Covered              
+        bin C1[32]                                  128837864          1          -    Covered              
+        bin C2                                      216800432          1          -    Covered              
+    Coverpoint CP_4                                   100.00%        100          -    Covered              
+        covered/total bins:                                16         16          -                      
+        missing/total bins:                                 0         16          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin D1[0]                                   216792596          1          -    Covered              
+        bin D1[1]                                        2865          1          -    Covered              
+        bin D1[2]                                         468          1          -    Covered              
+        bin D1[3]                                         557          1          -    Covered              
+        bin D1[4]                                         325          1          -    Covered              
+        bin D1[5]                                         340          1          -    Covered              
+        bin D1[6]                                         319          1          -    Covered              
+        bin D1[7]                                         338          1          -    Covered              
+        bin D1[8]                                         330          1          -    Covered              
+        bin D1[9]                                         328          1          -    Covered              
+        bin D1[10]                                        348          1          -    Covered              
+        bin D1[11]                                        296          1          -    Covered              
+        bin D1[12]                                        345          1          -    Covered              
+        bin D1[13]                                        317          1          -    Covered              
+        bin D1[14]                                        343          1          -    Covered              
+        bin D1[15]                                        318          1          -    Covered              
+    Coverpoint CP_5                                   100.00%        100          -    Covered              
+        covered/total bins:                                 4          4          -                      
+        missing/total bins:                                 0          4          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin E1[170]                                  13912908          1          -    Covered              
+        bin E1[187]                                  13822333          1          -    Covered              
+        bin E1[204]                                  13321517          1          -    Covered              
+        bin E2                                       41056758          1          -    Covered              
+    Coverpoint CP_6                                   100.00%        100          -    Covered              
+        covered/total bins:                                17         17          -                      
+        missing/total bins:                                 0         17          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin F1[0]                                   216795420          1          -    Covered              
+        bin F1[1]                                         361          1          -    Covered              
+        bin F1[2]                                         317          1          -    Covered              
+        bin F1[3]                                         312          1          -    Covered              
+        bin F1[4]                                         337          1          -    Covered              
+        bin F1[5]                                         339          1          -    Covered              
+        bin F1[6]                                         353          1          -    Covered              
+        bin F1[7]                                         334          1          -    Covered              
+        bin F1[8]                                         359          1          -    Covered              
+        bin F1[9]                                         338          1          -    Covered              
+        bin F1[10]                                        318          1          -    Covered              
+        bin F1[11]                                        310          1          -    Covered              
+        bin F1[12]                                        341          1          -    Covered              
+        bin F1[13]                                        340          1          -    Covered              
+        bin F1[14]                                        348          1          -    Covered              
+        bin F1[15]                                        306          1          -    Covered              
+        bin F2                                      216800433          1          -    Covered              
+    Cross cross1                                      100.00%        100          -    Covered              
+        covered/total bins:                                 1          1          -                      
+        missing/total bins:                                 0          1          -                      
+        % Hit:                                        100.00%        100          -                      
+        Auto, Default and User Defined Bins:
+            bin CRO_1                                41056758          1          -    Covered              
+    Cross cross2                                      100.00%        100          -    Covered              
+        covered/total bins:                                 1          1          -                      
+        missing/total bins:                                 0          1          -                      
+        % Hit:                                        100.00%        100          -                      
+        Auto, Default and User Defined Bins:
+            bin CRO_1                               216800432          1          -    Covered              
+
+COVERGROUP COVERAGE:
+----------------------------------------------------------------------------------------------------------
+Covergroup                                             Metric       Goal       Bins    Status               
+                                                                                                         
+----------------------------------------------------------------------------------------------------------
+ TYPE /SYS_COV_COLLECTOR/SYS_COV_COLLECTOR_C/COV_GP 
+                                                      100.00%        100          -    Covered              
+    covered/total bins:                                    48         48          -                      
+    missing/total bins:                                     0         48          -                      
+    % Hit:                                            100.00%        100          -                      
+    Coverpoint CP_1                                   100.00%        100          -    Covered              
+        covered/total bins:                                 2          2          -                      
+        missing/total bins:                                 0          2          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin A1[0]                                    89976305          1          -    Covered              
+        bin A1[1]                                   126824127          1          -    Covered              
+    Coverpoint CP_2                                   100.00%        100          -    Covered              
+        covered/total bins:                                 2          2          -                      
+        missing/total bins:                                 0          2          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin B1[0]                                     4359414          1          -    Covered              
+        bin B1[1]                                   212441018          1          -    Covered              
+    Coverpoint CP_3                                   100.00%        100          -    Covered              
+        covered/total bins:                                 5          5          -                      
+        missing/total bins:                                 0          5          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin C1[4]                                    23847709          1          -    Covered              
+        bin C1[8]                                    26909768          1          -    Covered              
+        bin C1[16]                                   37205091          1          -    Covered              
+        bin C1[32]                                  128837864          1          -    Covered              
+        bin C2                                      216800432          1          -    Covered              
+    Coverpoint CP_4                                   100.00%        100          -    Covered              
+        covered/total bins:                                16         16          -                      
+        missing/total bins:                                 0         16          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin D1[0]                                   216792596          1          -    Covered              
+        bin D1[1]                                        2865          1          -    Covered              
+        bin D1[2]                                         468          1          -    Covered              
+        bin D1[3]                                         557          1          -    Covered              
+        bin D1[4]                                         325          1          -    Covered              
+        bin D1[5]                                         340          1          -    Covered              
+        bin D1[6]                                         319          1          -    Covered              
+        bin D1[7]                                         338          1          -    Covered              
+        bin D1[8]                                         330          1          -    Covered              
+        bin D1[9]                                         328          1          -    Covered              
+        bin D1[10]                                        348          1          -    Covered              
+        bin D1[11]                                        296          1          -    Covered              
+        bin D1[12]                                        345          1          -    Covered              
+        bin D1[13]                                        317          1          -    Covered              
+        bin D1[14]                                        343          1          -    Covered              
+        bin D1[15]                                        318          1          -    Covered              
+    Coverpoint CP_5                                   100.00%        100          -    Covered              
+        covered/total bins:                                 4          4          -                      
+        missing/total bins:                                 0          4          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin E1[170]                                  13912908          1          -    Covered              
+        bin E1[187]                                  13822333          1          -    Covered              
+        bin E1[204]                                  13321517          1          -    Covered              
+        bin E2                                       41056758          1          -    Covered              
+    Coverpoint CP_6                                   100.00%        100          -    Covered              
+        covered/total bins:                                17         17          -                      
+        missing/total bins:                                 0         17          -                      
+        % Hit:                                        100.00%        100          -                      
+        bin F1[0]                                   216795420          1          -    Covered              
+        bin F1[1]                                         361          1          -    Covered              
+        bin F1[2]                                         317          1          -    Covered              
+        bin F1[3]                                         312          1          -    Covered              
+        bin F1[4]                                         337          1          -    Covered              
+        bin F1[5]                                         339          1          -    Covered              
+        bin F1[6]                                         353          1          -    Covered              
+        bin F1[7]                                         334          1          -    Covered              
+        bin F1[8]                                         359          1          -    Covered              
+        bin F1[9]                                         338          1          -    Covered              
+        bin F1[10]                                        318          1          -    Covered              
+        bin F1[11]                                        310          1          -    Covered              
+        bin F1[12]                                        341          1          -    Covered              
+        bin F1[13]                                        340          1          -    Covered              
+        bin F1[14]                                        348          1          -    Covered              
+        bin F1[15]                                        306          1          -    Covered              
+        bin F2                                      216800433          1          -    Covered              
+    Cross cross1                                      100.00%        100          -    Covered              
+        covered/total bins:                                 1          1          -                      
+        missing/total bins:                                 0          1          -                      
+        % Hit:                                        100.00%        100          -                      
+        Auto, Default and User Defined Bins:
+            bin CRO_1                                41056758          1          -    Covered              
+    Cross cross2                                      100.00%        100          -    Covered              
+        covered/total bins:                                 1          1          -                      
+        missing/total bins:                                 0          1          -                      
+        % Hit:                                        100.00%        100          -                      
+        Auto, Default and User Defined Bins:
+            bin CRO_1                               216800432          1          -    Covered              
+
+TOTAL COVERGROUP COVERAGE: 100.00%  COVERGROUP TYPES: 1
+
+DIRECTIVE COVERAGE:
+--------------------------------------------------------------------------------------------
+Name                                     Design Design   Lang File(Line)      Hits Status    
+                                         Unit   UnitType                                     
+--------------------------------------------------------------------------------------------
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop1_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(135)
+                                                                              33506 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop2_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(136)
+                                                                              33506 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop3_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(137)
+                                                                              28613 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop4_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(138)
+                                                                              10084 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop5_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(139)
+                                                                              10084 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop6_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(140)
+                                                                              4893 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop7_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(141)
+                                                                              13360 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop8_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(142)
+                                                                              13360 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop9_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(143)
+                                                                              13360 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop10_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(144)
+                                                                              13360 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop11_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(145)
+                                                                              13360 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop12_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(146)
+                                                                              13341 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop13_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(147)
+                                                                              13324 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop14_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(148)
+                                                                              13282 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop15_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(149)
+                                                                              13255 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop16_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(150)
+                                                                              8688 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop17_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(151)
+                                                                              1510 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop18_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(152)
+                                                                              3056 Covered   
+/SYS_UVM_TOP/DUT_M/U0/UART_ASSERTIONS/cvr_prop19_U 
+                                         UART_Assertions Verilog  SVA  UART_Assertions.sv(153)
+                                                                              10198 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop1_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(161)
+                                                                              2793 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop2_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(162)
+                                                                              2769 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop3_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(163)
+                                                                              2668 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop4_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(164)
+                                                                              2739 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop5_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(165)
+                                                                              2788 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop6_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(166)
+                                                                              2742 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop7_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(167)
+                                                                              2725 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop8_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(168)
+                                                                              2725 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop9_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(169)
+                                                                              2657 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop10_U 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(170)
+                                                                              2651 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop11_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(171)
+                                                                              5357 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop12_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(172)
+                                                                              5357 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop13_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(173)
+                                                                              5357 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop14_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(174)
+                                                                              5357 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop15_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(175)
+                                                                              5357 Covered   
+/SYS_UVM_TOP/DUT_M/U4/CTRL_Asser/cvr_prop16_C 
+                                         CTRL_Assertions Verilog  SVA  CTRL_Assertions.sv(176)
+                                                                              2788 Covered   
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/cvr_prop1_R 
+                                         REG_FILE_Asser Verilog  SVA  RF_Asser.sv(21) 8050 Covered   
+/SYS_UVM_TOP/DUT_M/U5/RF_Asser/cvr_prop2_R 
+                                         REG_FILE_Asser Verilog  SVA  RF_Asser.sv(22) 2725 Covered   
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/cvr_prop1_F 
+                                         FIFO_ASSER Verilog  SVA  FIFO_Asser.sv(34)
+                                                                              13439 Covered   
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/cvr_prop2_F 
+                                         FIFO_ASSER Verilog  SVA  FIFO_Asser.sv(35)
+                                                                              13439 Covered   
+/SYS_UVM_TOP/DUT_M/U11/Fifo_ASSER/cvr_prop3_F 
+                                         FIFO_ASSER Verilog  SVA  FIFO_Asser.sv(36)
+                                                                              13360 Covered   
+
+TOTAL DIRECTIVE COVERAGE: 100.00%  COVERS: 40
+
+Total Coverage By Instance (filtered view): 100.00%
+
